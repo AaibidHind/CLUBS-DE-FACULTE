@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Roboto', sans-serif;
+}
+.class1{
+    width:100%;
+    height: 100vh;
+    background-image:url(images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    
+
+ }
+    .class2{
+        width: 70px;
+        cursor: pointer;
+        padding-left: 60px;
+ }
+    .class3
+    {
+        
+        display: flex;
+        height:88%;
+        align-items: center;
+        padding-left: 50px;
+    
+        
+    }
+    h1{
+        color: wheat;
+        font-size: 60px;
+    }
+    p{
+        color: wheat;
+        font-size: 20px;
+
+    }
+    button{
+        width: 150px;
+        color:maroon;
+        font-size: 15px;
+        padding: 5px 0px;
+        background:wheat ;
+        border:0;
+        outline:none;
+        margin-top: 30px;
+        cursor: pointer;
+    
+
+    }
+    .class5{
+        width: 200px;
+        height: 230px;
+        display: inline-block;
+        padding: 15px 25px;
+        cursor: pointer;
+        margin: 10px 15px;
+        background-image: url(images/Musique.jpg);
+       background-position: center;
+       background-size: cover;
+      
+    }
+    .class6{
+        background-image: url(images/Musique.jpg);
+
+    }
+    .class7{
+        background-image: url(images/Sport.jpg);
+
+    }
+    .class8{
+        background-image: url(images/Robotique.jpg);
+
+    }
+    .class9{
+        background-image: url(images/Programmation.jpg);
+
+    }
+    h3{
+        color: blanchedalmond;
+    }
+    
